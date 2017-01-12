@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Lab1</string>
+    <string name="or">OR</string>
+    <string name="sign_in">SIGN IN</string>
+    <string name="forgot_password"><u>FORGOT PASSWORD</u></string>
+    <string name="hint_email">name@example.com</string>
+    <string name="hint_password">Password</string>
+</resources>
